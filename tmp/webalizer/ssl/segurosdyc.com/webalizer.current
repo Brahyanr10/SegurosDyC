@@ -1,0 +1,734 @@
+# Webalizer V2.23-08 Incremental Data - 05/05/2021 04:20:48
+2021 5 5 4 20 48
+575 549 100 92 18 29 27215932 118 92 0
+14 1 92 1 5
+92 89 4748330 22 20 17
+36 30 498513 21 20 17
+290 282 15099852 29 37 19
+142 135 6532407 30 31 29
+15 13 336830 14 10 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 6 229601 6
+5 5 64749 3
+13 11 225284 8
+10 8 98166 6
+4 3 114508 2
+13 13 143010 7
+2 2 39388 2
+5 5 113814 4
+5 3 83116 4
+47 45 2691928 4
+41 41 1958320 3
+93 89 5251658 10
+60 60 3463345 4
+8 7 126111 6
+7 7 77382 4
+6 6 77850 2
+73 71 4156714 8
+54 52 2508924 5
+3 3 38679 2
+88 88 5238129 6
+6 4 95591 4
+12 11 256482 8
+4 4 97463 3
+9 5 65720 7
+0
+0
+0
+549
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.git/HEAD
+0 1 16762992 60898 0 0
+/img/estado.jpg
+0 5 8299978418438106209 184880 0 0
+/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 1 398673584129 56780 0 0
+/nosotros
+0 6 7089056338603749682 100776 1 1
+/contacto
+0 18 8314600387730472960 302454 10 1
+/assets/plugins/owl-carousel/owl.transitions.css
+0 7 6302644 31332 0 0
+/assets/plugins/fancybox/jquery.fancybox.css
+0 7 409820995585 34265 0 0
+/assets/base/css/themes/default.css
+0 8 0 99128 0 0
+/img/mundial.png
+0 2 4049916039510830645 25802 0 0
+/img/bch5.jpg
+0 4 0 359032 0 0
+/img/bch11.jpg
+0 6 105010402230578 654610 0 0
+/img/icon/vespa2.png
+0 3 0 71937 0 0
+/img/bch15.jpg
+0 4 0 275912 0 0
+/img/solidaria.png
+0 5 0 84485 0 0
+/assets/plugins/jquery.min.js
+0 8 0 766288 0 0
+/img/b66.jpg
+0 1 16748080 46799 0 0
+/img/bch1.jpg
+0 4 0 330720 0 0
+/assets/plugins/owl-carousel/owl.carousel.css
+0 7 0 10332 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js
+0 8 0 296440 0 0
+/img/bch16.jpg
+0 4 0 452604 0 0
+/assets/base/css/components.css
+0 7 0 2290260 0 0
+/img/secretaria-cuerpo-transporte-de-personal.png
+0 4 0 217948 0 0
+/img/logodyc.png
+0 8 0 345024 0 0
+/assets/plugins/fancybox/jquery.fancybox.pack.js
+0 9 0 208215 0 0
+/img/icon/Check-3-icon.png
+0 3 0 22977 0 0
+/img/bch2.jpg
+0 4 0 237568 0 0
+/assets/plugins/revo-slider/js/jquery.themepunch.revolution.min.js
+0 8 0 905104 0 0
+/img/mapfre1.png
+0 4 0 39624 0 0
+/img/liberty.png
+0 2 0 82586 0 0
+/assets/base/css/plugins.css
+0 7 0 1744967 0 0
+/img/bch14.jpg
+0 4 0 369388 0 0
+/img/confianza.jpg
+0 3 0 1755345 0 0
+/img/positiva.jpg
+0 2 0 63082 0 0
+/assets/base/img/content/misc/feedback_box_2.png
+0 6 0 17370 0 0
+/assets/base/js/scripts/pages/lightbox-gallery.js
+0 8 0 14760 0 0
+/img/la-equidad.jpg
+0 2 0 49246 0 0
+/favicon.ico
+0 1 0 0 0 0
+/assets/plugins/simple-line-icons/simple-line-icons.min.css
+0 7 7960503767516839936 66927 0 0
+/assets/plugins/revo-slider/css/settings.css
+0 7 7022364162814640128 515473 0 0
+/img/c2.jpg
+0 3 7020671440528433454 119187 0 0
+/assets/base/js/components.js
+0 8 3330749690017297197 121976 0 0
+/assets/plugins/jquery-migrate.min.js
+0 8 4120287029821846836 57592 0 0
+/img/sura.png
+0 4 7596835273554800243 62660 0 0
+/img/wallpaper1.jpg
+0 3 3329064134413726001 528462 0 0
+/assets/base/js/app.js
+0 8 7307491100562894450 114016 0 0
+/respaldo
+0 5 0 104985 3 1
+/img/head.jpg
+0 6 0 183522 0 0
+/inicio
+0 6 0 131112 3 2
+/img/favicon.ico
+0 6 0 127788 0 0
+/assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js
+0 9 0 500652 0 0
+/img/bch4.jpg
+0 4 0 326516 0 0
+/img/c11.jpg
+0 8 0 1812904 0 0
+/pagos
+0 4 0 70144 4 2
+/assets/plugins/animate/animate.min.css
+0 7 0 390523 0 0
+/img/bch18.jpg
+0 4 0 318296 0 0
+/assets/base/css/custom.css
+0 7 0 0 0 0
+/img/bch12.jpg
+0 4 0 283572 0 0
+/img/bch10.jpg
+0 4 0 464160 0 0
+/assets/plugins/revo-slider/js/jquery.themepunch.tools.min.js
+0 8 0 788088 0 0
+/img/bch17.jpg
+0 5 0 285825 0 0
+/img/previsora.png
+0 2 0 13800 0 0
+/assets/plugins/cubeportfolio/css/cubeportfolio.min.css
+0 8 0 763816 0 0
+/assets/plugins/cubeportfolio/img/cbp-loading.gif
+0 6 0 19248 0 0
+/xmlrpc.php
+0 1 16762304 61332 0 0
+/assets/plugins/font-awesome/css/font-awesome.min.css
+0 7 0 166173 0 0
+/img/c5.jpg
+0 3 0 378057 0 0
+/cpanel
+0 1 0 33914 0 1
+/assets/plugins/counterup/jquery.counterup.min.js
+0 8 0 8552 0 0
+/servicios
+0 12 0 420516 6 2
+/
+0 59 0 1345332 65 6
+/img/icon/contacts-icon.png
+0 3 0 13275 0 0
+/img/bch7.jpg
+0 4 0 604708 0 0
+/assets/plugins/counterup/jquery.waypoints.min.js
+0 8 7146703758933702192 64352 0 0
+/assets/plugins/revo-slider/assets/timer.png
+0 3 3330469327570810227 375 0 0
+/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 7 8241980338435274797 415268 0 0
+/img/bch3.jpg
+0 4 4049641205274851170 329636 0 0
+/assets/plugins/owl-carousel/owl.theme.css
+0 7 3906359424682128495 11655 0 0
+/img/icon/cafe.png
+0 3 3543826251698680113 9624 0 0
+/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg
+0 1 7022349250688188416 179404 0 0
+/img/bolivar.jpg
+0 3 0 75456 0 0
+/robots.txt
+0 37 0 888 0 0
+/assets/base/img/content/line-icons/default.png
+0 3 0 329619 0 0
+/assets/base/img/content/backgrounds/bg-9.jpg
+0 2 0 271424 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css
+0 7 0 864570 0 0
+/assets/plugins/bootstrap-social/bootstrap-social.css
+0 8 0 162624 0 0
+/img/icon/home.png
+0 3 0 6543 0 0
+/img/komercia5.png
+0 8 0 24520 0 0
+/img/bch6.jpg
+0 4 0 322868 0 0
+/img/icon/Degree-icon.png
+0 3 0 17358 0 0
+/assets/plugins/owl-carousel/owl.carousel.min.js
+0 8 0 191120 0 0
+/assets/plugins/socicon/socicon.css
+0 7 0 4109 0 0
+/reg.php
+0 2 0 122233 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-54-71-111-238.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1620012804
+/contacto
+3.5.27.117.broad.zz.fj.dynamic.163data.com.cn
+0 1 1 61116 0 0
+-
+crawl17.bl.semrush.com
+0 1 1 20997 1 1620007733
+/respaldo
+crawl-66-249-64-244.googlebot.com
+0 4 4 111028 2 1619970156
+/pagos
+ec2-54-202-230-240.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1619959340
+/contacto
+ec2-34-219-222-29.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1619904199
+/contacto
+3.35.86.34.bc.googleusercontent.com
+0 1 1 21852 1 1620175006
+/
+190.144.175.250
+0 71 71 4113003 1 1620062184
+/nosotros
+crawl23.bl.semrush.com
+0 1 1 35043 1 1620112066
+/servicios
+petalbot-114-119-135-104.petalsearch.com
+0 1 1 21852 1 1619942564
+/inicio
+2.162.77.34.bc.googleusercontent.com
+0 2 0 70 2 1620151044
+/
+92.118.160.57.netsystemsresearch.com
+0 1 1 21852 1 1619846454
+/
+msnbot-207-46-13-3.search.msn.com
+0 3 3 105129 3 1620162270
+/servicios
+30.130.96.34.bc.googleusercontent.com
+0 1 1 21852 1 1619839337
+/
+1900243101.ip3.static.mediacommerce.com.co
+0 66 66 4233270 1 1619897576
+/respaldo
+134.51.67.218.broad.zz.fj.dynamic.163data.com.cn
+0 1 1 21852 1 1619940615
+/
+fwdproxy-ldc-019.fbsv.net
+0 1 1 21852 1 1619923612
+/
+ec2-18-133-184-150.eu-west-2.compute.amazonaws.com
+0 1 1 21852 1 1620128306
+/
+fwdproxy-prn-012.fbsv.net
+0 1 1 21852 1 1620072458
+/
+static-ip-186147222172.cable.net.co
+0 44 44 2626372 1 1620120007
+/pagos
+m14676.contaboserver.net
+0 1 1 60898 0 0
+-
+static-ip-18151034171.cable.net.co
+0 88 88 4338666 2 1620150981
+/
+petalbot-114-119-144-72.petalsearch.com
+0 1 1 24 0 0
+-
+fwdproxy-pnb-118.fbsv.net
+0 1 1 21852 1 1619843636
+/
+167.99.127.11
+0 1 1 40532 1 1620175819
+/
+jobqueue-listener.jobqueue.netcraft.com-ude0d45f0ad7f11ebab76ef18838d6ab1u-digitalocean-2gb
+0 1 1 21852 1 1620176175
+/
+fwdproxy-ldc-010.fbsv.net
+0 1 1 21852 1 1619990457
+/
+prod-nyc3-2.qencode-encoder-6213f358ad8011eb9a8562b78d0049ec
+0 1 0 35 1 1620171695
+/
+dynamic-186-155-43-191.dynamic.etb.net.co
+0 1 1 16897 0 0
+-
+ip-54-36-148-84.a.ahrefs.com
+0 1 1 24 0 0
+-
+16.35.86.34.bc.googleusercontent.com
+0 1 1 40544 1 1620089878
+/
+ec2-18-237-130-69.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1620021046
+/contacto
+crawl11.bl.semrush.com
+0 1 1 24 0 0
+-
+167.99.52.8
+0 1 1 40544 1 1620168834
+/
+fwdproxy-atn-024.fbsv.net
+0 1 1 21852 1 1620176033
+/
+msnbot-207-46-13-54.search.msn.com
+0 2 2 34339 2 1619887217
+/contacto
+petalbot-114-119-141-52.petalsearch.com
+0 1 1 24 0 0
+-
+static-ip-18151034148.cable.net.co
+0 112 112 6175736 3 1620165140
+/
+7.130.96.34.bc.googleusercontent.com
+0 1 1 21852 1 1620156726
+/
+crawl10.bl.semrush.com
+0 1 1 35043 1 1619904998
+/servicios
+ec2-18-237-25-127.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1620021454
+/contacto
+crawl20.bl.semrush.com
+0 1 1 24 0 0
+-
+crawl-66-249-64-242.googlebot.com
+0 3 3 32492 1 1620053781
+/contacto
+5.130.96.34.bc.googleusercontent.com
+0 1 1 21852 1 1619838704
+/
+ip-54-36-148-79.a.ahrefs.com
+0 1 1 24 0 0
+-
+ec2-34-211-141-30.us-west-2.compute.amazonaws.com
+0 1 1 21852 1 1619912017
+/
+15.162.77.34.bc.googleusercontent.com
+0 1 1 21852 1 1620104916
+/
+fwdproxy-prn-054.fbsv.net
+0 1 1 21852 1 1620072456
+/
+192.151.156.190
+0 1 1 21852 1 1620028746
+/
+88.236.161.229.dynamic.ttnet.com.tr
+0 1 1 21852 1 1620021483
+/
+petalbot-114-119-139-104.petalsearch.com
+0 1 1 16803 1 1620095628
+/contacto
+161.10.198.235
+0 55 55 3387666 1 1620043790
+/servicios
+95.10.203.158.dynamic.ttnet.com.tr
+0 1 1 21852 1 1620071690
+/
+77-88-5-13.spider.yandex.com
+0 1 1 21852 1 1620180774
+/
+93-158-161-68.spider.yandex.com
+0 1 1 24 0 0
+-
+ip-54-36-148-122.a.ahrefs.com
+0 1 1 21852 1 1620123147
+/
+crawl-66-249-64-246.googlebot.com
+0 5 5 62259 1 1619882806
+/contacto
+38.5.27.117.broad.zz.fj.dynamic.163data.com.cn
+0 1 1 61117 0 0
+-
+petalbot-114-119-139-133.petalsearch.com
+0 1 1 24 0 0
+-
+petalbot-114-119-128-208.petalsearch.com
+0 1 1 24 0 0
+-
+167.99.59.131
+0 1 1 21852 1 1620172647
+/
+prod-nyc3-2.qencode-encoder-74a7092ead8011ebbffc62b78d0049ec
+0 1 0 35 1 1620169318
+/
+167.99.124.219
+0 1 1 21852 1 1620173448
+/
+crawl19.bl.semrush.com
+0 1 1 24 0 0
+-
+msnbot-207-46-13-42.search.msn.com
+0 2 2 48 0 0
+-
+fwdproxy-ldc-021.fbsv.net
+0 1 1 21852 1 1620146315
+/
+fwdproxy-ldc-017.fbsv.net
+0 1 1 21852 1 1619949135
+/
+fwdproxy-rva-022.fbsv.net
+0 1 1 21852 1 1620059652
+/
+petalbot-114-119-129-36.petalsearch.com
+0 1 1 24 0 0
+-
+ip-54-36-149-1.a.ahrefs.com
+0 5 5 104211 5 1620151568
+/contacto
+47.242.149.235
+0 1 1 61332 0 0
+-
+fwdproxy-ftw-023.fbsv.net
+0 1 1 21852 1 1620117414
+/
+ip-54-36-149-10.a.ahrefs.com
+0 1 1 24 0 0
+-
+fwdproxy-ldc-111.fbsv.net
+0 1 1 21852 1 1619949135
+/
+petalbot-114-119-146-223.petalsearch.com
+0 3 3 63846 3 1620178016
+/respaldo
+185.4.64.83
+0 1 1 21852 1 1619948159
+/
+ec2-35-181-44-45.eu-west-3.compute.amazonaws.com
+0 1 1 21852 1 1620134836
+/
+191.156.132.132
+0 1 1 36976 0 0
+-
+ip-54-36-148-187.a.ahrefs.com
+0 1 1 24 0 0
+-
+ec2-54-201-50-76.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1619964115
+/contacto
+ip-54-36-148-193.a.ahrefs.com
+0 1 1 21852 1 1620177584
+/
+petalbot-114-119-140-214.petalsearch.com
+0 2 2 56895 2 1620113234
+/servicios
+fwdproxy-ldc-118.fbsv.net
+0 1 1 21852 1 1620030509
+/
+ec2-3-125-181-116.eu-central-1.compute.amazonaws.com
+0 1 1 21852 1 1620134230
+/
+ip-54-36-149-89.a.ahrefs.com
+0 1 1 16796 1 1620096046
+/nosotros
+93-158-161-73.spider.yandex.com
+0 4 4 43752 2 1620180773
+/
+fwdproxy-frc-045.fbsv.net
+0 1 1 21852 1 1619875798
+/
+fwdproxy-nao-009.fbsv.net
+0 1 1 21852 1 1619975554
+/
+15.130.96.34.bc.googleusercontent.com
+0 1 0 35 1 1620186782
+/
+fwdproxy-nao-112.fbsv.net
+0 1 1 21852 1 1620095601
+/
+petalbot-114-119-135-65.petalsearch.com
+0 1 1 21852 1 1620101057
+/
+191.111.26.106
+0 1 1 36976 0 0
+-
+petalbot-114-119-157-191.petalsearch.com
+0 1 1 24 0 0
+-
+ec2-54-203-102-60.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-ue07bde78ad7f11ebab76ef18838d6ab1u-digitalocean-2gb
+0 1 0 35 1 1620171333
+/
+92.118.160.1.netsystemsresearch.com
+0 1 0 35 1 1619997930
+/
+233.27.157.27.broad.zz.fj.dynamic.163data.com.cn
+0 1 1 21852 1 1620008515
+/
+ec2-34-222-214-7.us-west-2.compute.amazonaws.com
+0 4 4 38703 1 1619962868
+/contacto
+ip-54-36-148-231.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-70.a.ahrefs.com
+0 1 1 21852 1 1620023010
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+3.35.86.34.bc.googleusercontent.com
+0 1 1 21852 1 1620175006
+/
+m14676.contaboserver.net
+0 1 1 60898 0 0
+-
+167.99.127.11
+0 1 1 40532 1 1620175819
+/
+jobqueue-listener.jobqueue.netcraft.com-ude0d45f0ad7f11ebab76ef18838d6ab1u-digitalocean-2gb
+0 1 1 21852 1 1620176175
+/
+ip-54-36-148-84.a.ahrefs.com
+0 1 1 24 0 0
+-
+fwdproxy-atn-024.fbsv.net
+0 1 1 21852 1 1620176033
+/
+77-88-5-13.spider.yandex.com
+0 1 1 21852 1 1620180774
+/
+93-158-161-68.spider.yandex.com
+0 1 1 24 0 0
+-
+167.99.124.219
+0 1 1 21852 1 1620173448
+/
+47.242.149.235
+0 1 1 61332 0 0
+-
+petalbot-114-119-146-223.petalsearch.com
+0 1 1 20997 1 1620178016
+/respaldo
+ip-54-36-148-193.a.ahrefs.com
+0 1 1 21852 1 1620177584
+/
+93-158-161-73.spider.yandex.com
+0 2 2 21876 1 1620180773
+/
+15.130.96.34.bc.googleusercontent.com
+0 1 0 35 1 1620186782
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.segurosdyc.com/assets/base/css/themes/default.css
+0 3
+https://www.segurosdyc.com/nosotros
+0 5
+https://www.segurosdyc.com/assets/plugins/cubeportfolio/css/cubeportfolio.min.css
+0 5
+https://www.segurosdyc.com/assets/plugins/simple-line-icons/simple-line-icons.min.css
+0 7
+https://www.segurosdyc.com/pagos
+0 42
+https://www.google.com/
+0 9
+- (Direct Request)
+0 132
+https://www.segurosdyc.com/contacto
+0 181
+https://www.segurosdyc.com/respaldo
+0 23
+https://segurosdyc.com/
+0 2
+https://www.google.com.co/
+0 1
+https://www.bing.com/search
+0 2
+https://www.segurosdyc.com/assets/plugins/revo-slider/css/settings.css
+0 3
+https://segurosdyc.com/reg.php
+0 2
+https://www.segurosdyc.com/
+0 70
+https://www.segurosdyc.com/inicio
+0 13
+https://www.segurosdyc.com/servicios
+0 74
+http://www.google.com.hk
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+0 1
+httpx - Open-source project (github.com/projectdiscovery/httpx)
+0 1
+fasthttp
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 88
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.84 Mobile S
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 7
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 14
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 6
+Python-urllib/3.6
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.130 Mobile 
+0 6
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.7
+0 28
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 8
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 9
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 2
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 284
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 66
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

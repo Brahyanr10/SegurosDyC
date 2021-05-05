@@ -1,0 +1,269 @@
+head	1.17;
+access;
+symbols;
+locks
+	segurosdyc:1.17; strict;
+comment	@# @;
+
+
+1.17
+date	2016.03.02.14.54.21;	author segurosdyc;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2016.02.18.16.57.38;	author segurosdyc;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2016.02.18.16.57.02;	author segurosdyc;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2016.02.18.16.54.57;	author segurosdyc;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2016.02.11.19.39.01;	author segurosdyc;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2016.02.11.19.03.37;	author segurosdyc;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2016.02.04.22.50.40;	author segurosdyc;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2015.09.23.01.19.53;	author segurosdyc;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2015.09.23.01.19.40;	author segurosdyc;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2015.09.23.01.19.40;	author segurosdyc;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2015.09.23.00.32.37;	author segurosdyc;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2015.09.23.00.32.16;	author segurosdyc;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.09.23.00.32.00;	author segurosdyc;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.09.23.00.31.16;	author segurosdyc;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.09.23.00.30.24;	author segurosdyc;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.09.23.00.29.37;	author segurosdyc;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.09.23.00.29.37;	author segurosdyc;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@empresarial:$6$xKspL.Zb61I/wcTA$CZBnKdWn2f.lsLMJ2nSRQSH.FStl9DdRJ2gg5HWwhG0eGRVixRlrsd9eAtEJtE19G2d.7wVGK0Ph5x4WPufye1:16701::::::
+cartera:$6$sLEIYXsZzqeC0Rag$b/hVCLk/Wm4Lc2w5rVvYJurd5L9vPrKU/7DGEQLahWXQnO16H9T7TeIxykPi3tlRpvRUgzmHqK8H1PWpv3obo0:16701::::::
+soat:$6$dktHwKAjSAAGE2q6$EIUnmozE3Q1XXxnYtCA3WGb.TfjfXlQWHEQic.yxL38h6067KZq7SeyF1st/IWbt0H5FxRkl9ZP4ZvjTHaSd91:16701::::::
+gerencia:$6$AEZHAP3wt7r0jeNH$0PeWPMyrXB5KxGgIhmecBXafWsoPlMsvcHEPTm80A6wvA0Q20LO3tTWCQGS9aKyl1afD114E1W9AZPOtgg30o/:16701::::::
+automoviles:$6$o3IGEE668ZpzHd17$U5k48fTwyFI4j1LS3iwBp0AomDLpntmparSKb1h13Vov0RlMHKXStUGbjXHRwEOfxBSDWt7RWgvs/IvmYURzb/:16701::::::
+cumplimiento:$6$dycD04L5XA0NdvQp$1aP7PbPDJvVahbSccBdRlf1jL72dpKWuGY49PZ3iYMHwn6cPNUJQrS../nwS.11Uk96liUmRNZtN3fqXHo80c1:16701::::::
+hostdime:$6$AH0ywhzH9B6U9Pot$9bhFGwcQJZi7Q7TvEWkNdGjX.T/RWYJ6kpraGPpd4lERfzhY5ttfD2X9YPd4HZ/b96hR9v6FZKOA8uD.pJRFt0:16835::::::
+contabilidadsegurosdyc:$6$tc4khyP88MFyZdGb$zQG5jBAGfdLx4YVgLNvwa98p4yIrKg2u1vaYgyBKAKtRuidJdzMgWBjiGHd1fb3QnN9TTR12awaqsJgt/51dO.:16842::::::
+contabilidad:$6$D/9VhcvxdyL4RvSg$x.8FFVsg9R9aIFARgk8DqSCUMoGW2lulqFQa2dYKPMCCzxqXwWDmR62RKqhEsY87KxrWMFKXTTR28oFCyfA440:16842::::::
+direccioncomercialdyc:$6$L6GdAkUa3d9WeVy9$pqzMmWAubvkJZh0NYnm2z/AVy0YMWIb8rZuCt3CN6t5K1wvdXdA/wl4KT65ZnZhaKx6YpWwep2CAO.TL240QK1:16849::::::
+direccionadministrativa:$6$sFp40HetqYnchphx$bDzqrjfaykQeMauIsph47SHYPbnNL6nWhUYc9sDdjKDkTskYxWuLeuA2iejsNwSJOLj32MHZPemkfFDpJFKho.:16849::::::
+direccioncomercial:$6$jxEmyaqmezPGElqx$wnFZwnijFQ1ShSmPLg0mybEzs/AjpxWTcK/1Fb64FbRZ2pljba650.ItmIetA1ktUNvUttTHmqSEnR1y4OW3q.:16849::::::
+arl:$6$XX3IdxDpnb20Soi4$P9lSmh2FzL6rGnqTaShcjOHLC0BnYLsdjs8liMWpNg2z28xZUvQ.g3.ycuFTqIMHkJ2hBUpyFju4V4lf8YSWr/:16862::::::
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d13 1
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d11 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d10 1
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a5 1
+cumplimiento:$6$GjdO7h4lmHJhBIJ4$HPu7.eSx5FGfy7QCWlvR83SMTxNCNo3/iNN7hZSsCMR83.JnXhQhA1AAGOfw5wIFF3oHQ7NQKzdRYSjxjkQsV/:16701::::::
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 6
+a6 6
+empresarial:$6$chdhqJIE2KcEX9dB$16mF3/Xi3l2uEXSQX2l54b7KVHvmLx4Ggll2Nk0P1lxOirW7Q5T8AWXBLF./u.yPCQuA8cff5rvevmIA9Fdz2.:16701::::::
+cartera:$6$FKj1yqznC2cmuTig$pkUC.ANGEis0HHooM.vDk2wXSZqI2S3F7vfmFcbbJKVTdvOobuUrD2hWOqt.VmBq71W6D/9I2aqFA95U28itp0:16701::::::
+soat:$6$06886rHAcjayRZgT$hzvNwhoLfFucXMgWlJEatHWMrjaSRkAOtx/uQnInnkb30VUzM0dJ1DnDPR6m/UgljDMZa/PZZQrZYhd4gc0Sx/:16701::::::
+gerencia:$6$BR7QmB/KgsKaVDZq$qFcLA0X5eB//qseFGmz/eNUUVaTNuYGOf5tUHcOGF1Irmjs9lI.CnL4yTgDvllT7I6pje4TRyKJ83zCi5aLYz/:16701::::::
+automoviles:$6$qvFLDyXS.pljm729$S3IvoQdZYvFZ5BZvIliVNkW779DvB4obHu.1.ODKbpve9gLEcagwGqiyzYuy.vNVSZcMy9Y647DIEZPAfqGRE0:16701::::::
+cumplimiento:$6$SF0yOkevfZctHn6h$yxBaE/UbCSNd6.ooLH6X8rJJmF0uhnyeMdKzRH7bBIQG7sJ6rb0wxz6VU7Obbc8/W.eF4YJlgxBcOQi5jxMfP.:16701::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

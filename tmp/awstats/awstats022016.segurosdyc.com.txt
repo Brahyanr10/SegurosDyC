@@ -1,0 +1,355 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /home/segurosdyc/tmp/awstats/awstats.segurosdyc.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 7226                
+POS_DAY 8547                
+POS_DOMAIN 3389                
+POS_LOGIN 3775                
+POS_ROBOT 3930                
+POS_WORMS 4282                
+POS_EMAILSENDER 4413                
+POS_EMAILRECEIVER 4556                
+POS_SESSION 8727                
+POS_SIDER 8910                
+POS_FILETYPES 4691                
+POS_DOWNLOADS 4942                
+POS_OS 4990                
+POS_BROWSER 5175                
+POS_SCREENSIZE 5779                
+POS_UNKNOWNREFERER 5853                
+POS_UNKNOWNREFERERBROWSER 6017                
+POS_ORIGIN 6149                
+POS_SEREFERRALS 6285                
+POS_PAGEREFS 6440                
+POS_SEARCHWORDS 6618                
+POS_KEYWORDS 6770                
+POS_MISC 2356                
+POS_ERRORS 6829                
+POS_CLUSTER 3631                
+POS_SIDER_404 6917                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160205065100 69 15497 16569090644369
+FirstTime 20160201010601
+LastTime 20160205065100
+LastUpdate 20160205071541 69 0 69 0 0
+TotalVisits 38                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 294793 3 5 56011
+1 11 11 444879 1 1 19805
+2 10 10 379311 2 4 110906
+3 9 47 2522959 2 18 1088071
+4 13 13 574257 2 8 385553
+5 7 7 274988 2 3 39634
+6 17 17 742069 5 5 36922
+7 0 11 698389 1 2 128805
+8 12 12 510228 2 3 84233
+9 20 20 939943 6 7 2403
+10 18 21 910676 9 32 1488493
+11 6 8 288977 0 1 24
+12 12 12 510365 1 1 16353
+13 8 79 4821114 2 5 40744
+14 2 4 254672 1 1 14625
+15 15 18 796633 2 2 20263
+16 1 18 1119585 0 0 0
+17 7 7 274987 0 0 0
+18 0 0 0 1 1 19805
+19 0 0 0 3 6 99852
+20 0 2 127448 2 2 84078
+21 14 15 522364 0 0 0
+22 0 0 0 2 2 84078
+23 1 1 64366 1 1 16353
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+pl 148 148 6012821
+us 15 33 1988158
+co 9 103 6176273
+fr 5 5 231982
+vn 4 4 79220
+ru 3 41 2267776
+de 2 2 39610
+ua 1 1 64090
+it 1 1 19805
+hu 1 1 64860
+nl 1 1 64366
+gb 1 1 64042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 47 2618075 20160205043828 4
+bot[\s_+:,\.\;\/\\-] 30 705708 20160205040732 9
+robot 7 304681 20160204114924 2
+no_user_agent 4 122419 20160202104419 0
+spider 4 79220 20160204225058 0
+unknown 2 48 20160204001102 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 49 3107459 0 0
+png 39 1645251 0 0
+woff 3 190156 0 0
+php 64 1400163 0 0
+html 33 653565 0 0
+js 34 1428849 0 0
+jpg 26 2845901 0 0
+Unknown 91 5619047 0 0
+svg 1 179404 0 0
+gif 1 3208 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx6 1 1
+winxp 54 35
+java 1 1
+win2000 4 4
+linux 12 12
+win7 89 15
+macosx 1 1
+win2003 41 3
+Unknown 4 4
+win8.1 134 115
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+msie6.0 1 1
+chrome1555.0.1555.132 4 4
+firefox40.0 1 1
+firefox17.0 10 10
+chilkat 4 4
+chrome1812.0.1812.147 3 3
+chrome1813.0.1813.147 4 4
+chrome1733.0.1733.142 4 4
+chrome1870.0.1870.150 3 3
+chrome46.0.2490.71 1 0
+firefox34.0 71 71
+firefox31.0 1 1
+msie8.0 43 3
+chrome1705.0.1705.140 4 4
+msie11.0 1 1
+chrome44.0.2403.157 79 8
+firefox43.0 1 0
+msie7.0 2 0
+chrome37.0.2062.120 2 2
+chrome1908.0.1908.152 3 3
+netscape6.1 4 4
+firefox19.0 3 3
+chrome16.0.912.63 1 1
+Unknown 1 1
+chrome48.0.2564.97 19 1
+firefox3.6.8 1 1
+firefox35.0 43 43
+firefox11.0 26 9
+camino 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Chilkat/1.0.0_(_http://www.chilkatsoft.com/ChilkatHttpUA.asp) 20160204001701
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Apache-HttpClient/4.3.5_(java_1.5) 20160203094600
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 51 73
+From1 0 0
+From2 1 3
+From3 2 2
+From4 137 263
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://burger-imperia.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+301 15 5774
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+91.236.74.165 112 112 4761245 20160202154653
+91.238.134.61 28 28 911556 20160204101112
+181.49.44.242 8 79 4821114 20160202132442
+195.22.127.170 8 8 340020 20160204210407
+5.196.144.190 5 5 231982 20160205065100 20160205062323 /index.php
+66.249.83.76 3 5 324599 20160201105135
+93.159.230.90 3 41 2267776 20160203032627
+66.102.8.212 3 7 451578 20160204092302
+115.75.32.4 2 2 39610 20160204001701
+27.3.206.174 2 2 39610 20160203021749
+52.29.178.232 1 1 63650 20160202140627
+168.1.6.10 1 1 64851 20160205025028
+64.20.227.134 1 1 19805 20160204175006
+151.80.44.159 1 1 19805 20160205051802
+80.255.192.237 1 1 64042 20160201141330
+167.160.122.254 1 1 64655 20160202093211
+185.10.71.107 1 1 19805 20160201021836
+66.102.8.222 1 9 573790 20160204092302
+190.9.201.184 1 18 1119585 20160203162505
+66.249.83.79 1 1 65873 20160201105135
+66.249.88.204 1 1 65763 20160203153241
+54.69.230.139 1 1 19805 20160203094600
+5.175.208.122 1 1 19805 20160201042026
+65.19.167.131 1 1 19805 20160201150917
+37.229.157.65 1 1 64090 20160202150606
+181.143.148.10 0 2 127916 
+186.179.111.191 0 2 33794 
+65.55.85.14 0 1 63514 
+181.51.63.66 0 1 9906 
+186.84.196.241 0 1 63958 
+66.102.8.217 0 3 190470 
+185.92.73.125 1 1 64366 20160204231219
+217.112.131.74 1 1 64860 20160205040343
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160201 72 74 3235150 11
+20160202 59 135 7318803 9
+20160203 30 89 4559248 7
+20160204 22 35 1578304 7
+20160205 8 8 381498 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 2
+2mn-5mn 1
+30s-2mn 2
+0s-30s 28
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/index.php 59 1168495 2 14
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 57 3718025 11 0
+/ 33 653565 11 6
+/email 9 592745 5 5
+/component/user/register 4 257608 0 0
+/index.php/component/user/register 4 257848 0 1
+/index.php/component/k2 3 192372 1 0
+/index.php/component/users 3 194940 0 0
+/index.php/component/k2/item/1-etiam-eu-sapien-at-purus-ultricies/1-etiam-eu-sapien-at-purus-ultricies 2 129711 2 2
+/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 2 118648 0 0
+/administrator/index.php 2 39610 0 2
+/servicios 2 67156 0 0
+/index.php/2014-04-21-11-38-07/vision/itemlist/category/7-general 1 64655 1 1
+/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 71508 0 1
+/nosotros 1 14625 0 0
+/inicio 1 19805 0 1
+/plugins/pwd.php 1 64366 1 1
+/contacto 1 13460 1 0
+/xmlrpc.php 1 64042 1 1
+/index.php/component/content 1 64090 1 1
+/wp-login.php 1 63650 1 1
+/pagos 1 15654 0 0
+/respaldo 1 16353 0 0
+END_SIDER

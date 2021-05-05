@@ -1,0 +1,626 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /home/segurosdyc/tmp/awstats/awstats.segurosdyc.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 19007               
+POS_DAY 23534               
+POS_DOMAIN 3355                
+POS_LOGIN 3773                
+POS_ROBOT 3928                
+POS_WORMS 4319                
+POS_EMAILSENDER 4450                
+POS_EMAILRECEIVER 4593                
+POS_SESSION 23792               
+POS_SIDER 23981               
+POS_FILETYPES 4728                
+POS_DOWNLOADS 4811                
+POS_OS 4859                
+POS_BROWSER 5018                
+POS_SCREENSIZE 5562                
+POS_UNKNOWNREFERER 5636                
+POS_UNKNOWNREFERERBROWSER 5960                
+POS_ORIGIN 6170                
+POS_SEREFERRALS 6306                
+POS_PAGEREFS 6450                
+POS_SEARCHWORDS 6598                
+POS_KEYWORDS 6750                
+POS_MISC 2356                
+POS_ERRORS 6809                
+POS_CLUSTER 3629                
+POS_SIDER_404 6906                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151001005036 60 10143 17148984303780
+FirstTime 20150922202811
+LastTime 20150930171904
+LastUpdate 20151001080307 60 0 59 0 0
+TotalVisits 129                 
+TotalUnique 119                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 119                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 1268 414 416 317
+1 6 6 1898 421 421 634
+2 5 5 1585 430 431 317
+3 5 5 1585 438 442 0
+4 11 11 3487 430 433 0
+5 15 15 4755 2642 2644 0
+6 7 7 2219 2833 2833 0
+7 0 0 0 2840 2841 0
+8 6 6 1902 825 831 313
+9 6 6 1898 37 82 634
+10 6 6 1894 15 26 0
+11 6 6 1902 26 32 951
+12 7 7 2215 32 78 1268
+13 6 6 1898 24 28 317
+14 7 7 2219 159 163 0
+15 4 4 1268 10 26 939
+16 4 4 1268 10 17 317
+17 8 8 2532 14 27 951
+18 8 8 2528 8 10 0
+19 2 2 634 7 11 317
+20 11 11 3483 18 22 317
+21 6 6 1894 153 192 1264
+22 4 4 1268 400 406 634
+23 5 5 1585 395 395 317
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 40 40 12648
+zz 25 25 7925
+pl 15 15 4755
+co 8 8 2536
+de 8 8 2532
+il 7 7 2219
+tr 7 7 2219
+ru 7 7 2219
+ch 7 7 2219
+sg 6 6 1902
+pa 4 4 1268
+ee 4 4 1268
+ro 3 3 951
+gb 3 3 951
+ua 2 2 626
+nl 2 2 634
+cn 1 1 313
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 11 3471 20150930211310 0
+spider 7 2219 20150929110352 0
+bot[\s_+:,\.\;\/\\-] 5 1581 20150930082526 0
+no_user_agent 4 1268 20150930093026 0
+crawl 2 634 20150925130529 0
+slurp 1 317 20150922221946 0
+google[_+\s]web[_+\s]preview 1 317 20150924164617 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 149 47185 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 1 1
+winxp 1 1
+linux 1 1
+win7 137 137
+macosx 1 1
+win8 2 2
+macosx9 1 1
+Unknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome45.0.2454.85 1 1
+chrome45.0.2454.99 4 4
+firefox3.0.1 1 1
+firefox21.0 1 1
+chrome39.0.2171.95 49 49
+chrome31.0.1650.57 1 1
+opera26.0.1656.60 8 8
+chrome38.0.2125.111 2 2
+chrome36.0.1985.125 15 15
+chrome36.0.1985.97 18 18
+chrome45.0.2454.94 1 1
+chrome32.0.1664.3 1 1
+mozilla 1 1
+chrome45.0.2454.101 3 3
+chrome39.0.2171.65 2 2
+netscape5.0 1 1
+chrome45.0.2454.93 1 1
+chrome37.0.2062.120 1 1
+chrome34.0.1847.116 17 17
+firefox23.0 1 1
+chrome40.0.2214.85 13 13
+chrome39.0.2171.99 4 4
+Unknown 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0 20150922203153
+Google_favicon 20150924170429
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;id;echo_@ 20150927135536
+Mozilla/5.0_(compatible;_Qwantify/2.1n;__https://www.qwant.com/)/* 20150930132041
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Google_favicon 20150924170429
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;id;echo_@ 20150927135536
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 22
+From1 2 2
+From2 0 0
+From3 0 0
+From4 125 125
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 17 0
+404 12743 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 211
+/index.php/component/k2/item/1-etiam-eu-sapien-at-purus-ultricies/1-etiam-eu-sapien-at-purus-ultricies 112 http://www.segurosdyc.com/
+/ 1 http://segurosdyc.com
+/js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/templates/insightfx/css/grid-responsive.css 2 -
+/js/yenytinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/admin.php 2 -
+/mauvincludes/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/includes/tinymce/plugins/tinybrowser/tinybrowser.php 2 -
+/templates/insightfx/roksprocket/layouts/lists/themes/default/lists.css 2 -
+/zsteincludes/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/tinymce/plugins/filemanager/pages/fm/index.html 2 -
+/js/tin_ymce/plugins/imagemanager/pages/im/index.html 2 -
+/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/jwurjscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/filemanager/pages/fm/index.html 2 -
+/bfidtinymce/plugins/imagemanager/pages/im/index.html 1 -
+/media/system/js/mootools-core.js 2 -
+/joomla/robots.txt 1 -
+/huzfincludes/tinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/email 6 -
+/js/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/templates/insightfx/css-compiled/mediaqueries.css 2 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 4 -
+/media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js 2 -
+/kaysjs/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/cache/widgetkit/widgetkit-9157fcf8.css 2 -
+/images/PLAN_UTILITARIO_Y_PESADOS.png 2 -
+/includes/tinymce/plugins/filemanager/upload.php 2 -
+/evutincludes/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/ablltinymce/plugins/ajaxfilemanager/inc/data.php 1 -
+/tultjs/jscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/fxfdincludes/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/index.php/component/k2/wp-login.php 1 -
+/index.php/component/k2/item/5-seguros-arl/5-seguros-arl 1 -
+/vvcfincludes/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/gkyljs/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/uwpojs/tinymce/plugins/ajaxfilemanager/inc/data.php 1 -
+/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+//index.php 2 -
+/cache/widgetkit/widgetkit-8474bcd6.js 2 -
+/index.php/component/k2/item/2-por-que-es-importante-el-seguro-de-hogar 1 -
+/tiny_mce/plugins/filemanager/pages/fm/index.html 2 -
+/dlpijs/tin_ymce/plugins/imagemanager/pages/im/index.html 1 -
+/index.php/soluciones/seguros-obligatorio-soat 2 -
+/index.php/component/ 1 -
+/js/tinymce/plugins/ajaxfilemanager/inc/data.php 2 -
+/media/jui/js/jquery.min.js 2 -
+/administrator/ 2 -
+/phncjs/tinymce/plugins/filemanager/pages/fm/index.html 1 -
+/index.php/8-sample-content/11-sample-content-7 1 -
+/templates/insightfx/css-compiled/master-b303c1e5744d1b4f618d61af7361442b.css 2 -
+/index.php/8-sample-content/12-sample-content-8 5 -
+/media/com_uniterevolution/assets/rs-plugin/css/settings.css 2 -
+/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/index.html 2 -
+/joomla/administrator/index.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/js/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/index.php/soluciones/seguros-de-transporte 3 -
+/wp-login.php 3 -
+/index.php/component/content/ 4 -
+/js/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/index.php/soluciones/seguros-de-salud 5 -
+/components/com_k2/css/k2.css 2 -
+/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_XS.jpg 3 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/administrator/index.php 1 -
+/libraries/gantry/js/browser-engines.js 2 -
+/templates/insightfx/js/rokmediaqueries.js 2 -
+/includes/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/index.php/component/k2/item/10-prevencion-la-mejor-manera-de-ayudar/10-prevencion-la-mejor-manera-de-ayudar 2 -
+/index.php/component/k2/item/4-razones-para-adquirir-una-poliza-de-salud/4-razones-para-adquirir-una-poliza-de-salud 1 -
+/images/PLAN_AUTO_GLOBAL.png 2 -
+/ngxtincludes/tiny_mce/plugins/filemanager/upload.php 1 -
+/js/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/tinymce/plugins/tinybrowser/tinybrowser.php 2 -
+/js/tinymce/plugins/tinybrowser/tinybrowser.php 2 -
+/email/ 3 -
+/index.php/component/user/ 5 http://www.segurosdyc.com/index.php
+/index.php/soluciones/seguros-multiriesgo-empresarial 2 -
+/blog/administrator/index.php 1 -
+/media/com_acymailing/js/acymailing_module.js 3 -
+/ksbaincludes/tinymce/plugins/filemanager/upload.php 1 -
+/js/tiny_mce/plugins/filemanager/pages/fm/index.html 2 -
+/media/com_acymailing/css/module_default.css 2 -
+/tiny_mce/plugins/filemanager/upload.php 2 -
+/images/banners/logo11.png 73 -
+/components/com_roksprocket/assets/js/roksprocket.js 2 -
+/index.php/wp-login.php 1 -
+/jscripts/tiny_mce/plugins/filemanager/pages/fm/index.html 2 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/index.php/component/k2/item/ 1 -
+/index.php/component/k2/item/3-seguro-sota/3-seguro-sota 1 -
+/administrator/index.php 10 -
+/tinymce/plugins/imagemanager/pages/im/index.html 2 -
+/js/tinymce/plugins/filemanager/upload.php 2 -
+/enkbtinymce/plugins/filemanager/pages/fm/index.html 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/rnnetiny_mce/plugins/filemanager/pages/fm/index.html 1 -
+/ingntinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/components/com_roksprocket/assets/js/roksprocket.request.js 2 -
+/components/com_roksprocket/layouts/lists/themes/default/lists.js 2 -
+/modules/mod_news_pro_gk4/interface/css/style.portal.mode.4.css 2 -
+/rrgntiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/lvesjs/tinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/bitrix/admin/ 1 http://SEGUROSDYC.COM/bitrix/admin/
+/modules/mod_news_pro_gk4/interface/scripts/engine.js 2 -
+/index.php/component/k2/item/2-por-que-es-importante-el-seguro-de-hogar/2-por-que-es-importante-el-seguro-de-hogar 1 -
+/jxsaincludes/tinymce/plugins/tinybrowser/tinybrowser.php 1 -
+/webmail.com 1 -
+/index.php/2014-04-21-11-38-07/vision 5 -
+/index.php/component/k2/item/administrator/index.php 1 -
+/index.php/soluciones/seguros-de-vida-grupo 9 -
+/vikvtiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/includes/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/robots.txt 45 -
+/vknajs/tinymce/jscripts/tiny_mce/plugins/filemanager/pages/fm/index.html 1 -
+/index.php/2014-04-21-11-38-07/vision/itemlist/category/7-general 1 -
+/qqpvjs/tinymce/plugins/filemanager/upload.php 1 -
+/modules/mod_news_pro_gk4/interface/css/style.css 2 -
+/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/media/system/js/mootools-more.js 2 -
+/media/system/js/core.js 2 -
+/index.php/soluciones/seguros-de-vida-familiar 3 -
+/index.php/component/administrator/index.php 1 -
+/index.php/soluciones/seguros-de-responsabilidad-civil 3 -
+/index.php/admin/ 1 http://SEGUROSDYC.COM/index.php/admin/
+/m/ 1 -
+/index.php/soluciones/seguros-de-maquinaria-y-equipos 4 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/wp-login.php 1 -
+/index.php/soluciones/seguros-de-hogar 3 -
+/templates/insightfx/css-compiled/menu-70b72399aa6612cb864f6e733f428cec.css 2 -
+/includes/tinymce/jscripts/tiny_mce/plugins/filemanager/upload.php 2 -
+/Webmail 1 -
+/components/com_k2/js/k2.js 3 -
+/libraries/gantry/css/grid-responsive.css 2 -
+/index.php/soluciones/seguros-de-autos 3 -
+/llxcincludes/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/rxsejscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/index.php/8-sample-content 5 -
+/index.php/contacto 4 -
+/index.php/component/k2/item/10-prevencion-la-mejor-manera-de-ayudar 1 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/ 1 -
+/includes/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/tinymce/plugins/filemanager/upload.php 2 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 4 -
+/media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.revolution.min.js 2 -
+/mobile/ 1 -
+/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js 2 -
+/media/jui/js/jquery-noconflict.js 2 -
+/index.php/soluciones/seguros-de-cumplimiento 5 -
+http://segurosdyc.com/administrator/index.php 1 -
+/cgi-bin/ 3 -
+/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js 2 -
+/nepatiny_mce/plugins/imagemanager/pages/im/index.html 1 -
+/includes/tiny_mce/plugins/filemanager/upload.php 2 -
+/components/com_k2/images/placeholder/category.png 2 -
+/dtgrtinymce/plugins/filemanager/upload.php 1 -
+/esnatinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/includes/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/includes/tiny_mce/plugins/ajaxfilemanager/inc/data.php 4 -
+/ekgzjscripts/tiny_mce/plugins/filemanager/pages/fm/index.html 1 -
+/sntbtinymce/plugins/tinybrowser/tinybrowser.php 1 -
+/templates/insightfx/html/mod_roknavmenu/themes/default/js/responsive.js 2 -
+/dyqiincludes/jscripts/tiny_mce/plugins/filemanager/upload.php 1 -
+/js/tinymce/plugins/filemanager/pages/fm/index.html 2 -
+/js/tiny_mce/plugins/filemanager/upload.php 2 -
+/index.php/ 1 -
+/js/tinymce/plugins/imagemanager/pages/im/index.html 2 -
+/tiny_mce/plugins/imagemanager/pages/im/index.html 2 -
+/components/com_roksprocket/assets/js/mootools-mobile.js 2 -
+/exhijs/tinymce/plugins/tinybrowser/tinybrowser.php 1 -
+/js/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/media/system/js/caption.js 2 -
+/kzvajscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/media/com_uniterevolution/assets/rs-plugin/css/captions.css 2 -
+/hhppjs/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/index.php/component/users/ 35 http://www.segurosdyc.com
+/index.php/component/k2/item/3-seguro-sota 2 -
+/clypjscripts/tiny_mce/plugins/imagemanager/pages/im/index.html 1 -
+/index.php/2014-04-21-11-38-07/mision 4 -
+http://www.segurosdyc.com/administrator/index.php 12045 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 2 -
+/fvhcjs/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/index.php/administrator/index.php 1 -
+/administrator/index.php/ 4 -
+/tinymce/plugins/ajaxfilemanager/inc/data.php 2 -
+/tlgljs/tinymce/plugins/imagemanager/pages/im/index.html 1 -
+/index.php/component/k2/administrator/index.php 1 -
+/components/com_roksprocket/assets/js/rokmediaqueries.js 2 -
+/blog/robots.txt 1 -
+/index.php/soluciones/seguros-de-riesgos-laborales-arl 3 -
+/lgwstiny_mce/plugins/filemanager/upload.php 1 -
+/hfbbtinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/index.html 1 -
+/qwpqjs/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 -
+/images/logodyc.png 8 -
+/jscripts/tiny_mce/plugins/imagemanager/pages/im/index.html 2 -
+/ogvajs/tiny_mce/plugins/filemanager/upload.php 1 -
+/inwiincludes/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/index.php/component/k2/item/wp-login.php 1 -
+/includes/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/js/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/index.php/component/k2/item/1-etiam-eu-sapien-at-purus-ultricies 2 -
+/includes/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 2 -
+/index.php/component/k2/ 1 -
+/index.php 33 http://www.segurosdyc.com/index.php/component/users/
+/erimtinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/inc/data.php 1 -
+/apple-app-site-association 5 -
+/templates/insightfx/js/load-transition.js 1 -
+/index.php/component/wp-login.php 1 -
+/qyrsjs/tiny_mce/plugins/filemanager/pages/fm/index.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 119
+91.236.74.165 14 14 4438 20150927211413
+176.53.21.219 4 4 1268 20150924041629
+31.168.172.144 3 3 951 20150923104704
+119.81.248.52 2 2 634 20150925223728
+46.165.244.207 2 2 634 20150924181528
+108.61.228.69 2 2 634 20150923172541
+179.43.133.194 2 2 634 20150926041336
+185.22.183.201 2 2 634 20150925200926
+31.168.172.140 2 2 634 20150930043244
+108.61.122.87 2 2 634 20150925062232
+185.22.183.200 2 2 634 20150930023017
+108.61.122.224 2 2 634 20150927005813
+216.69.191.238 2 2 626 20150923100800
+158.69.2.151 2 2 634 20150925033124
+186.30.126.88 2 2 634 20150926123804
+169.57.0.229 1 1 317 20150923184455
+46.165.220.207 1 1 317 20150925145303
+194.187.168.25 1 1 317 20150930132041
+93.115.83.253 1 1 317 20150927215730
+161.202.72.182 1 1 317 20150923090226
+66.249.88.56 1 1 317 20150924170429
+104.156.228.117 1 1 317 20150923000417
+178.162.199.39 1 1 317 20150925004953
+176.53.21.217 1 1 317 20150925160042
+161.202.72.146 1 1 317 20150924132701
+104.156.228.83 1 1 317 20150930040717
+23.238.141.228 1 1 317 20150930061225
+178.162.211.218 1 1 317 20150929221229
+108.61.68.146 1 1 317 20150927204447
+119.81.124.82 1 1 317 20150926205706
+181.51.213.7 1 1 317 20150922202816
+108.61.228.29 1 1 317 20150925114814
+83.170.111.154 1 1 317 20150927012906
+173.199.65.56 1 1 317 20150929183017
+173.199.65.21 1 1 317 20150925030038
+185.22.183.198 1 1 317 20150930123825
+108.61.123.69 1 1 317 20150923044535
+208.167.254.244 1 1 317 20150925112348
+104.200.151.47 1 1 317 20150924023912
+108.61.122.215 1 1 317 20150924090323
+198.8.80.79 1 1 317 20150926055230
+173.199.65.47 1 1 317 20150923013219
+176.9.50.43 1 1 313 20150928011818
+173.199.65.33 1 1 317 20150923154929
+198.178.124.47 1 1 313 20150924184025
+31.168.172.145 1 1 317 20150928113142
+173.199.65.65 1 1 317 20150926215157
+185.22.183.196 1 1 317 20150924082525
+186.154.12.92 1 1 317 20150930145602
+119.81.250.154 1 1 317 20150922232257
+91.200.12.22 1 1 313 20150929122543
+104.200.151.10 1 1 317 20150926185450
+69.12.215.98 1 1 313 20150927135536
+108.61.122.160 1 1 317 20150929181832
+104.200.154.66 1 1 317 20150925161817
+199.30.231.2 1 1 317 20150923170823
+104.207.136.15 1 1 317 20150927135708
+179.43.177.98 1 1 317 20150930114716
+198.8.80.133 1 1 317 20150926125253
+104.200.154.53 1 1 317 20150928083257
+104.156.240.197 1 1 317 20150927203430
+104.200.151.31 1 1 317 20150923125444
+186.30.128.48 1 1 317 20150922204415
+104.156.228.161 1 1 317 20150927104514
+186.29.187.231 1 1 317 20150923170726
+119.81.250.146 1 1 317 20150924174751
+161.202.72.150 1 1 317 20150928094659
+161.202.72.152 1 1 317 20150924062114
+104.200.154.74 1 1 317 20150924044104
+104.238.169.143 1 1 317 20150926224258
+161.202.72.162 1 1 317 20150927054026
+45.55.230.123 1 1 313 20150928091129
+104.156.240.214 1 1 317 20150929122903
+104.200.151.43 1 1 317 20150930063647
+54.210.215.73 1 1 313 20150929215717
+185.3.135.50 1 1 317 20150927052651
+178.162.211.232 1 1 317 20150929150144
+104.156.228.139 1 1 317 20150924181640
+5.254.97.77 1 1 317 20150925054252
+31.168.172.147 1 1 317 20150926024333
+179.43.148.2 1 1 317 20150922214721
+104.200.154.59 1 1 317 20150925233810
+181.234.198.130 1 1 317 20150929134805
+213.133.108.164 1 1 317 20150925143738
+23.95.43.110 1 1 313 20150928215622
+176.53.21.212 1 1 317 20150930045327
+5.157.38.34 1 1 317 20150923014820
+193.201.227.57 1 1 313 20150925182641
+185.3.135.42 1 1 317 20150923084911
+46.166.186.219 1 1 317 20150923080535
+66.249.88.13 1 1 313 20150923170824
+104.207.136.17 1 1 317 20150926233033
+186.29.128.28 1 1 317 20150924155910
+69.164.213.10 1 1 317 20150924063712
+108.61.123.86 1 1 317 20150930013028
+104.156.240.135 1 1 317 20150927132044
+104.207.136.4 1 1 317 20150924001132
+198.8.80.19 1 1 317 20150922235249
+104.156.240.209 1 1 317 20150923164833
+172.98.67.96 1 1 317 20150926051802
+104.156.240.148 1 1 317 20150929193624
+104.156.240.160 1 1 317 20150926224912
+108.61.101.160 1 1 317 20150929235958
+81.171.53.75 1 1 317 20150928051657
+185.22.183.203 1 1 317 20150929192745
+173.199.65.54 1 1 317 20150924200419
+192.241.231.87 1 1 317 20150930171904
+108.61.122.157 1 1 317 20150926035605
+198.8.80.88 1 1 317 20150927102519
+5.63.144.228 1 1 317 20150926112811
+176.53.21.216 1 1 317 20150925014141
+110.75.87.233 1 1 313 20150922203153
+5.153.233.42 1 1 317 20150925032805
+172.98.67.26 1 1 317 20150926120832
+161.202.72.171 1 1 317 20150930020600
+104.156.240.196 1 1 317 20150926084745
+119.81.249.132 1 1 317 20150929155743
+5.63.151.84 1 1 317 20150927085138
+5.254.100.67 1 1 317 20150928114424
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20150922 8 8 2532 7
+20150923 35 35 11083 20
+20150924 18 18 5702 18
+20150925 19 19 6019 17
+20150926 19 19 6023 18
+20150927 15 15 4751 15
+20150928 8 8 2524 8
+20150929 13 13 4113 13
+20150930 14 14 4438 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+0s-30s 120
+2mn-5mn 3
+30s-2mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 149 47185 129 129
+END_SIDER

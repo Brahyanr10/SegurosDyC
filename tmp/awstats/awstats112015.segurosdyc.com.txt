@@ -1,0 +1,667 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201511 will be lost/reset.
+# Last config file used to build this data file was /home/segurosdyc/tmp/awstats/awstats.segurosdyc.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2696                
+POS_VISITOR 14346               
+POS_DAY 20085               
+POS_DOMAIN 3539                
+POS_LOGIN 4125                
+POS_ROBOT 4280                
+POS_WORMS 4829                
+POS_EMAILSENDER 4960                
+POS_EMAILRECEIVER 5103                
+POS_SESSION 20831               
+POS_SIDER 21038               
+POS_FILETYPES 5238                
+POS_DOWNLOADS 5575                
+POS_OS 5700                
+POS_BROWSER 5954                
+POS_SCREENSIZE 7074                
+POS_UNKNOWNREFERER 7148                
+POS_UNKNOWNREFERERBROWSER 7472                
+POS_ORIGIN 7660                
+POS_SEREFERRALS 7803                
+POS_PAGEREFS 7960                
+POS_SEARCHWORDS 8352                
+POS_KEYWORDS 8504                
+POS_MISC 2359                
+POS_ERRORS 8563                
+POS_CLUSTER 3981                
+POS_SIDER_404 8676                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151201000716 262 62711 12023192831023
+FirstTime 20151101034928
+LastTime 20151130234918
+LastUpdate 20151201071245 262 0 261 0 0
+TotalVisits 246                 
+TotalUnique 140                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 152                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 19 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 34 1090605 11 19 269677
+1 21 22 874832 32 85 2923491
+2 26 26 492750 46 53 166426
+3 19 19 700190 37 58 1155804
+4 16 16 257182 46 56 385989
+5 3 3 65626 50 54 66337
+6 46 100 4724398 37 43 21345
+7 15 15 233374 45 58 279527
+8 31 31 904491 47 62 258190
+9 28 155 4953867 46 132 3313495
+10 55 209 30197016 32 47 411991
+11 36 129 6747084 27 120 3390642
+12 38 84 4114233 20 34 277211
+13 36 38 1097075 22 53 1642395
+14 32 140 6474694 36 74 5459
+15 42 113 5278737 48 69 142462
+16 33 110 5828747 28 49 133162
+17 45 159 8510817 22 60 1417882
+18 21 21 501634 23 37 332127
+19 46 193 68979636 19 26 151330
+20 37 119 2415840 23 31 252636
+21 32 33 1109898 20 42 1303522
+22 20 20 334572 27 32 169830
+23 24 133 6545727 21 35 252624
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+pl 387 387 12919928
+co 122 1139 115411527
+us 91 218 9063847
+ru 48 88 3163603
+nl 19 19 765992
+ch 10 10 2258
+zz 7 7 1649
+ua 5 6 257722
+gb 5 5 65900
+de 5 5 143432
+fr 4 6 101887
+ro 4 4 1040
+ee 4 4 723
+jp 3 3 609
+cn 3 3 609
+it 3 3 20321
+il 2 2 406
+sg 2 2 65131
+br 2 2 406
+pt 1 1 203
+cl 1 1 203
+no 1 1 19805
+pa 1 1 203
+eu 1 1 64980
+id 1 1 313
+ca 1 1 18072
+lt 1 1 317
+se 1 1 64872
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 199 9955087 20151130183556 10
+spider 96 2874641 20151130214344 0
+bot[\s_+:,\.\;\/\\-] 90 2535764 20151130162615 26
+google[_+\s]web[_+\s]preview 44 2316570 20151125092106 0
+php 13 266780 20151124154059 0
+googlebot\-image 8 57798 20151123175018 0
+unknown 6 144 20151130004651 6
+robot 6 323 20151130092938 5
+no_user_agent 3 127564 20151120032028 0
+slurp 2 227 20151121213008 1
+netcraft 1 203 20151106165032 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 395 23212213 0 0
+png 280 6500683 0 0
+pdf 2 60831201 0 0
+woff2 4 227120 0 0
+txt 2 126738 0 0
+woff 20 1080016 0 0
+php 143 3092399 0 0
+html 287 2486855 0 0
+xml 1 63906 0 0
+jpg 211 20459920 0 0
+js 288 10266455 0 0
+Unknown 280 13601444 0 0
+svg 1 179404 0 0
+gif 8 27604 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/img/brochure.pdf 2 60 60831201
+/license.txt 1 0 63134
+/README.txt 1 0 63604
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 61 8
+winlong 9 9
+winxp 65 35
+unix 1 1
+winnt 2 1
+linuxubuntu 1 1
+linux 12 12
+win7 1214 561
+macosx 1 1
+win2003 45 5
+macosx9 3 3
+win8 4 4
+Unknown 16 16
+win8.1 547 77
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+safari7.0.3 1 1
+msie6.0 11 11
+chrome34.0.1847.137 5 5
+chrome24.0.1309.0 1 0
+chrome43.0.2357.124 4 4
+android 1 1
+chrome39.0.2171.95 37 37
+opera26.0.1656.60 31 31
+firefox34.0 74 73
+chrome36.0.1985.125 10 10
+chrome42.0.2311.111 1 1
+chrome26.0.1410.58 1 1
+firefox2.0.0.13 1 0
+chrome46.0.2490.76 58 5
+msie8.0 45 5
+chrome34.0.1847.132 1 1
+msie7.0 22 3
+chrome34.0.1847.116 16 16
+chrome37.0.2062.120 5 5
+chrome40.0.2214.85 10 10
+msie9.0 1 1
+chrome30.0.1599.101 40 40
+Unknown 4 4
+firefox11.0 26 0
+netscape 10 10
+firefox32.0 9 9
+firefox40.0 1 1
+firefox42.0 1 1
+chrome34.0.1847.131 1 1
+firefox21.0 4 4
+firefox29.0 1 1
+chrome46.0.2490.71 2 2
+firefox38.0 2 2
+firefox7.0.1 1 1
+chrome36.0.1985.97 31 31
+chrome32.0.1700.107 1 1
+chrome29.0.1600.1 9 9
+chrome23.0.1271.17 44 44
+chrome35.0.1916.114 1 1
+chrome46.0.2490.80 1 1
+msie11.0 35 35
+chrome18.0.1025.133 1 1
+chrome36.0.1985.143 5 5
+firefox33.0 21 21
+mozilla 2 2
+chrome44.0.2403.157 1 1
+firefox14.0.1 2 2
+safari8.0.2 1 1
+chrome46.0.2490.86 1226 120
+chrome39.0.2171.99 38 38
+chrome13.0.782.41 1 1
+firefox3.6.3 1 1
+firefox35.0 123 123
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Google_favicon 20151125092104
+Mozilla 20151123062435
+facebookexternalhit/1.1 20151123093759
+python-requests/2.8.1 20151108165618
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151113154733
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Google_favicon 20151125092104
+facebookexternalhit/1.1 20151123093759
+python-requests/2.8.1 20151108165618
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 161
+From1 0 0
+From2 10 10
+From3 14 14
+From4 604 1797
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 10 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://rankings-analytics.com/try.php 6 6
+https://www.facebook.com 2 2
+http://scripted.com/segurosdyc.com 1 1
+http://pizza-tycoon.com 1 1
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://pizza-imperia.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 22 553773
+404 727 0
+301 87 21648
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 90
+/index.php/soluciones/seguros-de-vida-grupo 1 -
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/component/k2/item/1-etiam-eu-sapien-at-purus-ultricies/1-etiam-eu-sapien-at-purus-ultricies 51 http://www.segurosdyc.com/
+/robots.txt 84 -
+/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_XS.jpg 1 -
+/user 1 SEGUROSDYC.COM
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/2014-04-21-11-38-07/vision/itemlist/category/7-general 6 -
+/media/system/js/modal.js 1 -
+/media/system/js/core.js 1 -
+/plugins/system/cache/cache.xml 1 -
+/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_XS.jpg 1 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 1 -
+/index.php/soluciones/seguros-de-maquinaria-y-equipos 1 -
+/media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js 1 -
+/browserconfig.xml 1 -
+/images/PLAN_UTILITARIO_Y_PESADOS.png 1 -
+/cache/widgetkit/widgetkit-9157fcf8.css 1 -
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/modules/mod_dionefileuploader/upload.php 1 -
+/administrator/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 1 -
+/index.php/soluciones/seguros-de-autos 3 -
+/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/component/k2/item/5-seguros-arl/5-seguros-arl 1 -
+/index.php/contacto 4 -
+/index.php/component/k2/item/5-seguros-arl 3 -
+/misc/druplicon.png 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 2 -
+/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 29 -
+/images/SOAT.jpg 1 -
+/cgi-bin/ 19 -
+/ajax.list.search.php 2 -
+/components/com_creativecontactform/assets/js/creative-mousewheel.js 1 -
+/components/com_k2/images/placeholder/category.png 2 -
+/components/com_sexycontactform/assets/js/sexy-mousewheel.js 1 -
+/cache/widgetkit/widgetkit-4deeeabb.js 1 -
+/modules/mod_artuploader/upload.php 1 -
+/media/com_uniterevolution/assets/rs-plugin/css/settings.css 1 -
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/9-gantry/3-module-variations 1 -
+/wp-login.php 2 -
+/index.php/soluciones/seguros-de-transporte 2 -
+/index.php/component/content/ 3 -
+/templates/system/css/template.css 1 -
+/templates/insightfx/html/mod_roknavmenu/themes/default/js/responsive.js 1 -
+/components/com_k2/css/k2.css 1 -
+/index.php/2014-04-21-11-38-07/mision/itemlist/category/7-general 2 -
+/index.php/component/mailto/ 7 -
+/components/com_roksprocket/assets/js/mootools-mobile.js 1 -
+/images/joomla_logo_black.jpg 1 -
+/components/com_simplephotogallery/js/main.js 1 -
+/language/en-GB/en-GB.xml 1 -
+/libraries/gantry/js/browser-engines.js 1 -
+/index.php/using-joomla/extensions/components/users-component/registration-form 1 http://segurosdyc.com/index.php/using-joomla/extensions/components/users-component/registration-form
+/index.php/component/users/ 13 http://www.segurosdyc.com/index.php/component/users/
+/index.php/component/k2/item/3-seguro-sota 2 -
+/images/PLAN_AUTO_GLOBAL.png 2 -
+/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/index.php/2014-04-21-11-38-07/mision 4 -
+http://www.segurosdyc.com/administrator/index.php 234 -
+/index.php/9-gantry/4-about-joomla 1 -
+/index.php/9-gantry 10 -
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/components/com_gglms/js/utils.js 1 -
+/email/ 1 -
+/administrator/index.php/ 29 -
+/components/com_roksprocket/assets/js/rokmediaqueries.js 1 -
+/media/com_acymailing/js/acymailing_module.js 1 -
+/components/com_facileforms/libraries/jquery/uploadify.php 1 -
+/media/com_acymailing/css/module_default.css 1 -
+/images/banners/logo11.png 58 -
+/components/com_roksprocket/assets/js/roksprocket.js 1 -
+/index.php/9-gantry/2-typography 1 -
+/administrator/index.php 32 -
+/images/logodyc.png 18 -
+/cache/widgetkit/widgetkit-2572207f.css 1 -
+/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_XS.jpg 1 -
+/components/com_roksprocket/assets/js/roksprocket.request.js 1 -
+http://www.segurosdyc.com/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 1 http://www.segurosdyc.com/
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/components/com_sobipro/usr/templates/usbydesign/js/alpha.js 1 -
+/mambots/editors/wysiwygpro/document.php 1 -
+/index.php 38 -
+/index.php/component/k2/item/2-por-que-es-importante-el-seguro-de-hogar/2-por-que-es-importante-el-seguro-de-hogar 1 http://segurosdyc.com/
+/components/com_guru/js/buy.js 1 -
+/administrator/components/com_spidercalendar/spidercalendar.xml 1 -
+/index.php/2014-04-21-11-38-07/vision 3 https://www.google.com.co/
+/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 152
+91.236.74.165 383 383 12918896 20151130194826
+186.170.248.190 62 457 24472393 20151127175620
+185.128.36.17 44 44 871420 20151130234918
+186.29.185.234 19 285 71803085 20151126122502
+64.79.100.20 18 18 667469 20151123062435
+167.0.178.65 10 80 4720395 20151130113436
+186.147.139.225 9 133 3890366 20151124205309
+104.236.211.213 9 9 218099 20151127192516
+186.30.123.137 8 75 4002895 20151122230538
+185.92.73.100 6 6 336842 20151125143556
+186.29.128.46 5 59 3094103 20151120111922
+186.30.120.240 5 87 2212018 20151120090111
+91.200.12.25 5 5 193408 20151130075422
+67.55.84.212 4 4 18275 20151121223335
+40.83.179.46 3 3 609 20151112204330
+210.129.134.63 3 3 609 20151118130714
+167.114.174.95 3 3 609 20151113154735
+185.92.73.125 3 3 150245 20151130225229
+93.159.230.88 3 43 2291980 20151130171448
+93.115.84.122 2 2 406 20151118095821
+207.244.77.2 2 43 2137166 20151121143836
+45.33.147.108 2 2 406 20151110225144
+169.57.0.199 2 2 406 20151118042641
+89.77.250.171 2 2 626 20151102105240
+109.201.154.182 2 2 406 20151115025115
+157.56.19.89 0 5 317467 
+62.210.250.66 0 1 0 
+173.199.65.49 1 1 203 20151116114447
+161.202.72.182 1 1 203 20151112054911
+162.216.46.174 1 1 203 20151113040249
+119.81.124.81 1 1 203 20151108174423
+173.199.65.44 1 1 203 20151118211224
+173.199.65.57 1 1 203 20151111015544
+65.55.85.14 0 1 63472 
+52.27.106.228 1 1 203 20151108094720
+186.30.122.55 1 1 203 20151113143737
+169.57.0.252 1 1 203 20151107205128
+104.156.240.201 1 1 64979 20151120033532
+168.1.53.238 1 1 203 20151115025800
+173.252.122.121 1 1 18072 20151123093759
+62.233.42.102 1 1 203 20151116005505
+66.102.8.217 0 7 444430 
+62.24.252.133 1 1 203 20151115165410
+188.82.138.153 1 1 203 20151105180143
+95.211.229.158 1 1 313 20151101043834
+108.61.228.144 1 1 203 20151108211948
+104.237.159.175 1 1 0 20151126162017
+79.21.194.101 1 1 313 20151104135704
+173.199.65.41 1 1 64982 20151123172040
+179.43.151.98 1 1 203 20151105081408
+172.98.67.113 1 1 64916 20151129013934
+208.167.254.42 1 1 203 20151105032401
+108.61.226.6 1 1 203 20151114021935
+162.216.46.2 1 1 64972 20151122174406
+37.235.48.126 1 1 64980 20151124231529
+168.1.53.199 1 1 203 20151115081842
+5.254.97.91 1 1 317 20151102002612
+5.249.145.164 1 1 19805 20151129004439
+168.1.6.24 1 1 203 20151114062706
+162.216.46.80 1 1 64980 20151124174455
+168.1.75.21 1 1 203 20151108133507
+178.73.210.104 1 1 64872 20151128013045
+31.168.172.143 1 1 203 20151105210057
+89.76.86.82 1 1 203 20151112001352
+104.200.154.49 1 1 317 20151103173721
+185.3.135.146 1 1 203 20151116185724
+172.98.67.50 1 1 203 20151107145332
+93.114.44.187 1 1 317 20151104064032
+217.23.12.229 1 1 64870 20151128085351
+66.55.150.181 1 1 64941 20151120163728
+104.238.169.144 1 1 203 20151107142217
+66.249.88.45 0 1 63490 
+187.11.237.2 1 1 203 20151105080124
+31.168.172.138 1 1 203 20151105094233
+212.7.220.181 1 1 18072 20151123121044
+178.162.211.216 1 1 317 20151104071452
+172.98.67.8 1 1 203 20151106102649
+69.197.169.202 1 1 63654 20151126060743
+149.202.98.161 1 1 19805 20151130182624
+161.202.72.169 1 1 64982 20151125151655
+181.151.231.168 1 1 317 20151101151202
+66.249.88.214 1 15 656371 20151128063723
+104.238.169.98 1 1 203 20151110111710
+5.157.38.10 1 1 317 20151103151752
+192.99.10.173 1 1 18072 20151124205050
+54.197.72.133 1 1 203 20151112024404
+152.250.137.216 1 1 203 20151107113740
+69.58.178.57 2 2 406 20151118045348
+190.147.84.222 0 2 127832 
+193.90.12.90 1 1 19805 20151130033444
+38.100.21.172 1 1 203 20151114125300
+178.219.88.25 0 1 64314 
+94.23.217.201 1 2 81676 20151124103007
+168.1.6.32 1 1 317 20151101034928
+66.102.8.222 0 10 634872 
+173.199.65.15 1 1 203 20151114194949
+168.1.99.235 1 1 203 20151114162203
+178.162.211.217 1 1 203 20151112141112
+104.200.151.12 1 1 203 20151107071640
+188.165.231.122 1 1 203 20151107041121
+78.11.162.130 1 1 203 20151108165618
+203.130.192.19 1 1 313 20151103205626
+162.216.46.139 1 1 203 20151114223919
+46.166.188.206 1 1 64872 20151125203037
+104.156.228.76 1 1 203 20151118091225
+91.108.183.178 1 1 203 20151117000358
+144.76.153.198 1 1 13169 20151120115139
+66.249.88.209 2 18 981227 20151128063726
+80.79.125.106 1 1 0 20151104122936
+104.156.240.204 1 1 317 20151103065450
+46.28.50.100 1 1 64974 20151120112142
+162.216.46.134 1 1 64982 20151125154026
+169.57.0.235 1 1 317 20151104122523
+209.222.5.227 1 1 203 20151107232626
+161.18.109.85 1 1 317 20151103230807
+67.214.102.149 1 1 19805 20151128031020
+50.196.107.37 1 1 203 20151113142247
+64.79.100.16 2 2 406 20151114223037
+95.211.212.196 1 1 64984 20151124001712
+179.153.24.120 1 1 203 20151106080511
+190.162.220.81 1 1 203 20151107115806
+162.216.46.65 1 1 203 20151117114728
+93.159.230.89 1 1 203 20151116150235
+89.240.2.159 1 1 203 20151115165338
+46.166.173.89 1 1 317 20151103201411
+46.166.188.203 1 1 64982 20151124165333
+46.165.244.207 2 2 129743 20151128135150
+208.167.254.239 1 1 203 20151105205342
+122.96.59.99 1 1 203 20151107103608
+108.61.228.152 1 1 203 20151108001230
+181.143.148.10 0 12 767496 
+200.1.173.127 0 5 319904 
+199.116.169.254 1 1 313 20151103122646
+66.102.8.212 0 8 507863 
+119.81.124.85 1 1 64928 20151130173856
+109.75.117.26 1 1 203 20151108123742
+38.100.21.63 1 1 203 20151114123129
+190.254.13.78 1 1 317 20151103122644
+181.60.147.64 1 1 203 20151105222406
+66.249.88.13 1 1 18072 20151125092104
+108.61.122.195 1 1 64930 20151130212118
+54.186.121.22 0 1 63134 
+168.1.99.200 1 1 64980 20151123192126
+107.189.60.73 1 1 203 20151117105110
+146.185.19.42 1 1 203 20151108070118
+162.208.49.45 1 1 203 20151109154001
+183.220.194.237 1 1 203 20151108185702
+46.166.141.221 2 2 406 20151112132032
+66.249.88.204 2 25 1513441 20151128063752
+162.216.46.167 1 1 203 20151116195914
+117.169.6.174 1 1 203 20151107183205
+168.1.53.254 1 1 203 20151109190617
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20151101 3 3 947 3
+20151102 3 3 943 3
+20151103 8 8 2528 8
+20151104 5 5 1264 5
+20151105 9 9 1624 9
+20151106 7 7 1421 5
+20151107 11 11 2233 11
+20151108 9 9 1827 9
+20151109 8 8 1624 4
+20151110 7 7 1421 4
+20151111 4 4 812 2
+20151112 14 14 2842 9
+20151113 6 6 1218 4
+20151114 22 22 4263 13
+20151115 9 9 1827 6
+20151116 14 14 2842 8
+20151117 18 18 3654 8
+20151118 14 14 2842 8
+20151119 9 92 4485728 3
+20151120 58 331 14234543 16
+20151121 33 78 3705976 11
+20151122 39 107 5334863 9
+20151123 48 170 7838673 8
+20151124 17 62 900760 10
+20151125 39 160 67823525 10
+20151126 37 213 32356611 9
+20151127 52 142 7705910 8
+20151128 61 114 5483867 14
+20151129 61 61 2459426 12
+20151130 110 221 10067011 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 3
+15mn-30mn 2
+2mn-5mn 4
+30s-2mn 9
+0s-30s 220
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/ 286 2486652 151 131
+/index.php/component/k2/item/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito/9-en-colombia-se-ofrecen-polizas-de-seguros-a-la-medida-de-cada-delito 129 8418007 45 0
+/index.php 92 1771803 2 59
+/administrator/index.php 44 871420 1 1
+/contacto 24 320421 4 3
+/servicios 24 416364 1 0
+/respaldo 21 1009080 1 4
+/index.php/component/k2/item/1-etiam-eu-sapien-at-purus-ultricies/1-etiam-eu-sapien-at-purus-ultricies 20 1298849 20 20
+/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 19 1008508 0 7
+/inicio 18 340893 1 1
+/index.php/component/users 18 1167011 8 3
+/nosotros 14 203076 0 2
+/pagos 6 93924 0 2
+/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2 4 227120 1 0
+//index.php 2 130440 2 2
+/registro 2 128496 0 1
+/login 2 128466 0 0
+/index.php/contacto 1 13169 1 1
+/plugins/captcha/jproicaptcha/jproicaptcha.php 1 63844 1 1
+/images/aratidhess.php 1 63700 1 1
+/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 71508 0 1
+http://www.segurosdyc.com/ 1 203 1 1
+/configuration.php-s 1 63688 1 1
+/tmp/aratidhess.php 1 63682 1 1
+/browserconfig.xml 1 63906 1 1
+/wp-login.php 1 63654 1 1
+/modules/mod_articlemanage/mod_articlemanage.php 1 63856 1 1
+END_SIDER
